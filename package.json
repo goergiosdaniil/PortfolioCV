@@ -1,0 +1,23 @@
+{
+  "name": "portfoliocv",
+  "version": "0.0.1",
+  "description": "GeorgeDaniil.com first try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goergiosdaniil/PortfolioCV.git"
+  },
+  "author": "Goergios_daniil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goergiosdaniil/PortfolioCV/issues"
+  },
+  "homepage": "https://github.com/goergiosdaniil/PortfolioCV#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
